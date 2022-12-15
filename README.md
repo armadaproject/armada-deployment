@@ -1,2 +1,5 @@
-# armada-deployment
-Deployments for Armada
+# Armada Infrastructure
+
+## Terraform modules
+
+Follow the [terraform docs](./terraform/README.md) for more info.
